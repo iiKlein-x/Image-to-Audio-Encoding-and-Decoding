@@ -1,1 +1,1 @@
-# Image-to-Audio-Encoding-and-Decoding
+# Multimedia Project (jan. 2026)
