@@ -2,9 +2,6 @@
 
 # Image to Audio to Image Conversion Using MATLAB
 
-**Student:** Mariam Marhaba (2119)
-**Course:** Multimedia – ULFG1
-
 ---
 
 ## 1. Introduction
